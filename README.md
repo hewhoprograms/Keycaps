@@ -1,6 +1,6 @@
 <h1 align=center>Keycaps Nextjs</h1>
 <p align=center>Keycaps is a free NextJs personal blog template</p>
-<h2 align="center"> <a target="_blank" href="https://samiti.dev" rel="nofollow">Demo</a> | <a  target="_blank" href="#">Page Speed (100%)</a>
+<h2 align="center"> <a target="_blank" href="#" rel="nofollow">Demo</a> | <a  target="_blank" href="#">Page Speed (100%)</a>
 </h2>
 
 <p align=center>
